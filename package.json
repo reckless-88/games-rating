@@ -1,0 +1,24 @@
+{
+  "name": "module_4",
+  "version": "1.0.0",
+  "description": "Вторая домашняя работа, заготовка",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon app.js",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reckless-88/yandex.git"
+  },
+  "author": "reckless-88",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reckless-88/yandex/issues"
+  },
+  "homepage": "https://github.com/reckless-88/yandex#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
